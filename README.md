@@ -43,9 +43,16 @@
 ---
 
 ### 📌 Featured Projects
-| Project | Description |
-|---|---|
-| [Advanced_Excel](https://github.com/Mubarak-lab-droid/Advanced_Excel) | Advanced Excel techniques for data analysis |
-| [PowerBi_Visualization](https://github.com/Mubarak-lab-droid/PowerBi_Visualization) | Power BI dashboard project |
-| [Data_visualization_Olaniyanmubarak](https://github.com/Mubarak-lab-droid/Data_visualization_Olaniyanmubarak) | Data visualization project |
-| [Pizza_Sales_Performance](https://github.com/Mubarak-lab-droid/Bike_Sales_Project) | Pizza sales trends and performance analysis |
+
+**🍕 Pizza Sales Performance Analysis** — *Excel*
+Analyzed pizza sales data to uncover order trends, top-selling items, and revenue drivers. Includes data cleaning, pivot tables, and summary visuals.
+🔗 [View Project](https://github.com/MubarakOlaniyan/Pizza_Sales_Project)
+
+**👥 HR Analytics Dashboard** — *SQL & Power BI*
+Queried and modeled HR data in SQL, then built an interactive Power BI dashboard to explore workforce metrics (e.g. headcount, attrition, department breakdowns).
+🔗 [View Project](https://github.com/MubarakOlaniyan/HR_Analytics_Project)
+
+---
+
+### 📚 Also see
+Practice repos covering Excel, SQL, Power BI and Python fundamentals — used to build core skills before tackling the projects above.
