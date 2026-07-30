@@ -46,13 +46,13 @@
 
 **🍕 Pizza Sales Performance Analysis** — *Excel*
 Analyzed pizza sales data to uncover order trends, top-selling items, and revenue drivers. Includes data cleaning, pivot tables, and summary visuals.
-🔗 [View Project](https://github.com/MubarakOlaniyan/Pizza_Sales_Project)
+🔗 [View Project](https://github.com/Mubarak-lab-droid/Pizza_Sales_Project)
 
 **👥 HR Analytics Dashboard** — *SQL & Power BI*
 Queried and modeled HR data in SQL, then built an interactive Power BI dashboard to explore workforce metrics (e.g. headcount, attrition, department breakdowns).
-🔗 [View Project](https://github.com/MubarakOlaniyan/HR_Analytics_Project)
+🔗 [View Project](https://github.com/Mubarak-lab-droid/HR_Analytics_Project)
 
 ---
 
 ### 📚 Also see
-Practice repos covering Excel, SQL, Power BI and Python fundamentals — used to build core skills before tackling the projects above.
+Practice repos covering Excel, SQL, Power BI, and Python fundamentals — used to build core skills before tackling the projects above.
