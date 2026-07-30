@@ -50,7 +50,7 @@ Analyzed pizza sales data to uncover order trends, top-selling items, and revenu
 
 **👥 HR Analytics Dashboard** — *SQL & Power BI*
 Queried and modeled HR data in SQL, then built an interactive Power BI dashboard to explore workforce metrics (e.g. headcount, attrition, department breakdowns).
-🔗 [View Project](https://github.com/Mubarak-lab-droid/HR_Analytics_Project)
+🔗 [View Project](https://github.com/Mubarak-lab-droid/Hands-On-Projects-HR-ANALYTICS)
 
 ---
 
