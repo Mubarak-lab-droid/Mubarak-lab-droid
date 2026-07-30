@@ -45,7 +45,15 @@
 ### 📌 Featured Projects
 
 **🍕 Pizza Sales Performance Analysis** — *Excel*
-Analyzed pizza sales data to uncover order trends, top-selling items, and revenue drivers. Includes data cleaning, pivot tables, and summary visuals.
+Analyzed a year of pizza sales transactions (2015) to uncover revenue trends and product performance. Built an interactive Excel dashboard with pivot tables, slicers, and charts covering monthly trends, top-selling items, and order patterns.
+
+**Key findings:**
+- Generated **$817,860** in total revenue across 21,350 orders
+- **The Classic Deluxe Pizza** was the top performer (2,453 orders)
+- **Large pizzas** drove the most revenue (45.9% of sales)
+- Peak order volume occurred at **12 PM**, with **Thursday** as the busiest day
+- Average order value: **$38.31**
+
 🔗 [View Project](https://github.com/Mubarak-lab-droid/Pizza_Sales_Project)
 
 **👥 HR Analytics Dashboard** — *SQL & Power BI*
