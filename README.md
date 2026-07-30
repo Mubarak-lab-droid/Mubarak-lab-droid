@@ -55,4 +55,4 @@ Cleaned and analyzed 22,214 employee records with SQL (CTEs, window functions), 
 ---
 
 ### 📚 Also see
-Practice repos covering Excel, SQL, and Power BI fundamentals — used to build core skills before tackling the projects above.
+Practice repos covering Excel, SQL, Power BI and Python fundamentals — used to build core skills before tackling the projects above.
