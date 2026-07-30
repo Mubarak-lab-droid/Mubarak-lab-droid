@@ -1,4 +1,4 @@
-### Hi, I'm Olaniyan Mubarak 👋
+### Hi, I'm Mubarak Olaniyan 👋
 **Data Analyst** | Excel · Power BI · SQL · Python
 
 [
