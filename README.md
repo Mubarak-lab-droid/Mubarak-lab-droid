@@ -45,22 +45,14 @@
 ### 📌 Featured Projects
 
 **🍕 Pizza Sales Performance Analysis** — *Excel*
-Analyzed a year of pizza sales transactions (2015) to uncover revenue trends and product performance. Built an interactive Excel dashboard with pivot tables, slicers, and charts covering monthly trends, top-selling items, and order patterns.
-
-**Key findings:**
-- Generated **$817,860** in total revenue across 21,350 orders
-- **The Classic Deluxe Pizza** was the top performer (2,453 orders)
-- **Large pizzas** drove the most revenue (45.9% of sales)
-- Peak order volume occurred at **12 PM**, with **Thursday** as the busiest day
-- Average order value: **$38.31**
-
+Analyzed a year of pizza sales data ($817K revenue, 21,350 orders) using pivot tables and an interactive dashboard with slicers.
 🔗 [View Project](https://github.com/Mubarak-lab-droid/Pizza_Sales_Project)
 
-**👥 HR Analytics Dashboard** — *SQL & Power BI*
-Queried and modeled HR data in SQL, then built an interactive Power BI dashboard to explore workforce metrics (e.g. headcount, attrition, department breakdowns).
+**👥 HR Analytics — Demographics, Tenure & Turnover** — *SQL & Power BI*
+Cleaned and analyzed 22,214 employee records with SQL (CTEs, window functions), then built a Power BI dashboard covering turnover, tenure, and demographics.
 🔗 [View Project](https://github.com/Mubarak-lab-droid/Hands-On-Projects-HR-ANALYTICS)
 
 ---
 
 ### 📚 Also see
-Practice repos covering Excel, SQL, Power BI, and Python fundamentals — used to build core skills before tackling the projects above.
+Practice repos covering Excel, SQL, and Power BI fundamentals — used to build core skills before tackling the projects above.
